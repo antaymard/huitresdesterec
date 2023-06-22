@@ -32,12 +32,12 @@ function CoquillagesPage() {
         text: (
           <div>
             <p>
-              Depuis l’arrivée des moules de Locquémeau, la moule de bouchot n’a
-              plus l’exclusivité. Leur chair charnue et iodée a de quoi séduire.
+              Depuis l'arrivée des moules de Locquémeau, la moule de bouchot n'a
+              plus l'exclusivité. Leur chair charnue et iodée a de quoi séduire.
               La pêche des moules de pleine mer se fait dans la baie de Lannion
-              depuis 2009. Notre mytiliculteur et son équipage partent à l’aube
+              depuis 2009. Notre mytiliculteur et son équipage partent à l'aube
               en mer pour récolter les mollusques immergés à 5 mètres sous
-              l’eau.
+              l'eau.
             </p>
             <h4 className={subtitleStyle}>
               La moule de Locquemeau a le vent en poupe
@@ -51,9 +51,9 @@ function CoquillagesPage() {
             </p>
             <h4 className={subtitleStyle}>Deux variétés</h4>
             <p>
-              - EDULIS : moules d’été <br />- GALLOPROVINCIALIS : moules de
-              printemps, que l’on peut farcir grâce à la taille de sa coquille,
-              qui peut atteindre jusqu’à 14cm.
+              - EDULIS : moules d'été <br />- GALLOPROVINCIALIS : moules de
+              printemps, que l'on peut farcir grâce à la taille de sa coquille,
+              qui peut atteindre jusqu'à 14cm.
             </p>
           </div>
         ),
@@ -65,7 +65,7 @@ function CoquillagesPage() {
           <div>
             <p>
               Le bulot ou buccin est devenu un coquillage très prisé et fait
-              l’objet d’une pêche contrôlée afin d’assumer sa pérennité. Des
+              l'objet d'une pêche contrôlée afin d'assumer sa pérennité. Des
               quotas ont donc été mis en place sur le littoral de la Manche. Sa
               coquille beige à gris ambré porte des rainures en spirale. Le pied
               blanc tacheté de noir, très développé et musculeux, est
@@ -73,11 +73,11 @@ function CoquillagesPage() {
             </p>
             <h4 className={subtitleStyle}>Préparation</h4>
             <p>
-              Faire dégorger pendant 1 à 2 heures les bultos en les recouvrant
-              d’eau très salée. Ils rejettent alors le sable qu’ils contiennent.
+              Faire dégorger pendant 1 à 2 heures les bulots en les recouvrant
+              d'eau très salée. Ils rejettent alors le sable qu'ils contiennent.
               Les rincer et les faire cuire, départ eau froide, durant 20
               minutes avec sel, poivre, thym et algues séchées. Puis les laisser
-              refroidire dans l’eau de cuisson. <br />
+              refroidire dans l'eau de cuisson. <br />
               Triés à bord des bateaux, les bulots sont débarqués vivants, ce
               qui garantit une très grande vivacité et fraicheur du produit.
             </p>
@@ -93,16 +93,16 @@ function CoquillagesPage() {
               Les bigorneaux noirs vivants sont présentés en amuse-gueules, sur
               les plateaux de fruits de mer avec pain de seigle et beurre. Le
               bigorneau est un petit gastéropode marin comestible à coquille
-              spiralée d’un brun-vert à noir. On le trouve couramment le long
-              des côtes bretonnes, accroché à un rocher à l’abri des courants
+              spiralée d'un brun-vert à noir. On le trouve couramment le long
+              des côtes bretonnes, accroché à un rocher à l'abri des courants
               marins et du vent.
             </p>
             <h4 className={subtitleStyle}>Nos conseils culinaires</h4>
             <p>
-              Décortiqués, ils peuvent être préparés en sauce, sautés à l’ail ou
+              Décortiqués, ils peuvent être préparés en sauce, sautés à l'ail ou
               présentés en salade. Le bigorneau est un met de choix très réputé
               pour sa chair tendre et succulente. Les recettes de bigorneaux ne
-              manquent pas et sont toutes aussi délicieuses ! En outre c’est un
+              manquent pas et sont toutes aussi délicieuses ! En outre c'est un
               aliment très nourrisant et peu calorique. Vous pouvez les servir
               tières ou froids selon votre convenance.
             </p>
@@ -123,11 +123,11 @@ function CoquillagesPage() {
             <h4 className={subtitleStyle}>Nos conseils</h4>
             <p>
               Pour enlever le sable que peuvent contenir les coques, il faut les
-              mettre à dégorger un court moment, environ un quart d’heure, dans
-              de l’eau de mer ou du robinet à laquelle on ajoute du gros sel en
-              quantité. Les coques vont alors s’entreouvrir et rejeter le sable.
-              N’oubliez par de les brasser, cela aura aussi pour but de faire
-              ouvrir les coques vides ou pleines de vase. Renouvelez l’eau pour
+              mettre à dégorger un court moment, environ un quart d'heure, dans
+              de l'eau de mer ou du robinet à laquelle on ajoute du gros sel en
+              quantité. Les coques vont alors s'entreouvrir et rejeter le sable.
+              N'oubliez par de les brasser, cela aura aussi pour but de faire
+              ouvrir les coques vides ou pleines de vase. Renouvelez l'eau pour
               éliminer tout le sable avec de les acccomoder.
             </p>
           </div>
@@ -146,9 +146,9 @@ function CoquillagesPage() {
             </p>
             <h4 className={subtitleStyle}>Nos conseils</h4>
             <p>
-              L’huître plate est un des fleurons de l’ostréiculture bretonne.
+              L'huître plate est un des fleurons de l'ostréiculture bretonne.
               Elle était le produit de référence avant les maladies qui ont
-              décimé ses rangs avant les années 80. L’apport nutritionnel
+              décimé ses rangs avant les années 80.
             </p>
           </div>
         ),

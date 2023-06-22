@@ -78,19 +78,19 @@ function HomePage() {
             </h3>
             <div className="flex flex-col gap-2">
               <p>
-                En baie de Morlaix, la qualité de l’eau et notre passion nous
+                En baie de Morlaix, la qualité de l'eau et notre passion nous
                 ont permis de créer dans nos parcs de Térénez une huître creuse
-                à la saveur subtile, iodée et au goût inégalable.{" "}
+                à la saveur subtile, iodée et au goût inégalable.
               </p>
               <p>
-                Un produit haut de gamme, primé par des médailles d’or, d’argent
+                Un produit haut de gamme, primé par des médailles d'or, d'argent
                 et de bronze aux Concours Agricoles de Paris en 2002 - 2003 -
                 2006.
               </p>
               <p>
-                En période de fêtes de fin d’année, découvrez la Fine de Claire,
+                En période de fêtes de fin d'année, découvrez la Fine de Claire,
                 sélectionnée par nos soins avant affinage. Elle se distingue par
-                sa consistance plus affirmée, son colume en bouche, un équilibre
+                sa consistance plus affirmée, son volume en bouche, un équilibre
                 douceur-salinité...
               </p>
             </div>

@@ -27,7 +27,7 @@ function Footer() {
         <div>
           HUITRES DE STEREC <br />
           Huitres creuses de Térénez - Elevées en mer dans nos 10 hectares de
-          parcs Vente directe d'huitres - Moules et coquillages
+          parcs <br /> Vente directe d'huitres - Moules et coquillages
         </div>
       </div>
       <div className="text-center mt-4 text-white">
