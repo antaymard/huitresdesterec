@@ -125,7 +125,7 @@ function HomePage() {
               src="https://static.wixstatic.com/media/f4766e_2b7ec6328dc143c79947718c9091a2dd~mv2.png/v1/fill/w_400,h_364,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Group%2052.png"
             />
             <p>Port de Térénez, 29630 Plougasnou</p>
-            <p>02.98.73.44.43</p>
+            <p>02.98.72.44.43</p>
             <p className="font-bold mt-4">
               Horaires d'ouverture : Du lundi au vendredi, 9h à 12h, 14h à 18h.
               Samedi de 9h à 12h.
