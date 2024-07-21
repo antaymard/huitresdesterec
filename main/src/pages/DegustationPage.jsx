@@ -31,7 +31,7 @@ function DegustationPage() {
           />
           <div className="px-5 md:px-0 mt-8">
             <p>
-              De 12h à 22h, dégustez nos huîtres et coquillages fraîchement
+              De 11h à 21h, dégustez nos huîtres et coquillages fraîchement
               sortis de l'eau, face à la mer, avec vue sur le port de Térénez et
               aligné avec le coucher du soleil tout l'été.
             </p>

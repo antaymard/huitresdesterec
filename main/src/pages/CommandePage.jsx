@@ -60,6 +60,12 @@ function CommandePage() {
               Note : <br /> Un numéro de téléphone vous sera demandé pour
               finaliser la commande.
             </p>
+            <div className="mb-5 rounded p-3 border text-pink-700 bg-pink-100 border-pink-700">
+              <p>
+                Livraison le samedi : <br /> 7€ seront ajoutés aux frais de
+                livraison Chronopost.
+              </p>
+            </div>
             <div
               id="calibre01"
               className="flex flex-col md:flex-row items-center gap-3 rounded bg-white p-3 px-5 justify-between"

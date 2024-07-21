@@ -33,7 +33,7 @@ function ContactPage() {
               Horaires Dégustation
             </h3>
             <p>Ouvert l'été, de juin à septembre.</p>
-            <p>Du lundi au dimanche : 12 h - 22 h</p>
+            <p>Du lundi au samedi : 11 h - 21 h</p>
           </div>
           <img
             src={require("../images/staticmap.png")}

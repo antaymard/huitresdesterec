@@ -36,14 +36,14 @@ function PointsDeVente() {
         image: "superu.png",
       },
       {
-        title: "Le Grand Café de la Terrasse",
-        text: <p>Restaurant à Morlaix</p>,
-        image: "cafe_morlaix.jpg",
-      },
-      {
         title: "Super U",
         text: <p>Lanmeur</p>,
         image: "superu.png",
+      },
+      {
+        title: "Le Grand Café de la Terrasse",
+        text: <p>Restaurant à Morlaix</p>,
+        image: "cafe_morlaix.jpg",
       },
       {
         title: "Café du Port",
@@ -51,14 +51,24 @@ function PointsDeVente() {
         image: "cafe_locqui.jpg",
       },
       {
-        title: "La Presqu'Ile",
-        text: <p>Restaurant à Locquirec</p>,
-        image: "prequile_locqui.jpg",
+        title: "Le Primel Café",
+        text: <p>Restaurant à Primel (Plougasnou)</p>,
+        image: "primelcafe.webp",
       },
       {
-        title: "Casino de Plougasnou",
-        text: <p>Centre commercial Casino</p>,
-        image: "casino.png",
+        title: "Le Radeau",
+        text: <p>Restaurant Pizzeria à Térénez (Plougasnou)</p>,
+        image: "radeau.webp",
+      },
+      {
+        title: "Le Café du Port",
+        text: <p>Restaurant au Dourduff (Plouezoc'h)</p>,
+        image: "dourduff.webp",
+      },
+      {
+        title: "Le Bar de Viarmes",
+        text: <p>Bar/Restaurant à Morlaix</p>,
+        image: "viarmes.webp",
       },
     ];
     return elements.map((el, i) => (

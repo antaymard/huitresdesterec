@@ -14,9 +14,9 @@ function Header({
           {title}
         </h1>
         <h4 className="font-hand">{subTitle}</h4>
-        <div className="md:absolute right-0 ">
+        {/* <div className="md:absolute right-0 ">
           <CartButton />
-        </div>
+        </div> */}
         <div className="rounded-full bg-emerald-500 shadow-lg shadow-emerald-500/20 text-white hidden md:absolute left-0 h-32 w-32 flex flex-col items-center justify-center text-center -rotate-12">
           100% Baie de Morlaix !
         </div>

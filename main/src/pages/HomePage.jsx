@@ -167,7 +167,7 @@ function HomePage() {
                 et coquillages fraîchement pêchés.
               </p>
               <p className="mt-4 font-bold">
-                Ouvert de juillet à septembre, de 12h à 22h du lundi au samedi
+                Ouvert de juillet à septembre, de 11h à 21h du lundi au samedi
               </p>
               <Link
                 to="/degustation"
