@@ -22,8 +22,8 @@ function CnilPage() {
           <h3 className="font-bold">Identité</h3>
           <p className="font-sans">
             Gérant: Monsieur William ALVADO Co-Gérant: Madame Catherine ALVADO
-            Impasse de Feunteun Bol - Port de Térénez - 29630 Plougasnou Tel: 02
-            98 72 44 43
+            Impasse de Feunteun Bol - Térénez - 29630 Plougasnou Tel: 02 98 72
+            44 43
           </p>
           <h3 className="font-bold">Adresse société</h3>
           <p className="font-sans">

@@ -48,19 +48,19 @@ function MentionsPage() {
             données La consultation de ce site peut donner lieu au traitement de
             données relatives à des personnes identifiées ou identifiables. Le
             responsable de ce traitement est la EARL "Les Huitres de Sterec" -
-            Impasse de Feunteun Bol - Port de TERENEZ - 29630 PLOUGASNOU -
-            FRANCE • Site de traitement des données Le traitement lié aux
-            services Web fournis par ce site est effectué par le personnel
-            technique chargé du dit traitement ou par les personnes engagées
-            occasionnellement pour des opérations de maintenance. Aucune donnée
-            dérivée du service Web n'est communiquée ou portée à la connaissance
-            du public. • Finalités et utilisation des informations Les données à
-            caractère personnel fournies par les utilisateurs qui demandent la
-            transmission d'informations ou s'inscrivent pour recevoir des
-            bulletins d'informations sont utilisées aux seules fins de fournir
-            le service demandé. Elles peuvent aussi être utilisées dans le cadre
-            des activités normales de la Société aux fins suivantes : a) gestion
-            de la relation utilisateur/client ; b) mener à bien son activité
+            Impasse de Feunteun Bol - TERENEZ - 29630 PLOUGASNOU - FRANCE • Site
+            de traitement des données Le traitement lié aux services Web fournis
+            par ce site est effectué par le personnel technique chargé du dit
+            traitement ou par les personnes engagées occasionnellement pour des
+            opérations de maintenance. Aucune donnée dérivée du service Web
+            n'est communiquée ou portée à la connaissance du public. • Finalités
+            et utilisation des informations Les données à caractère personnel
+            fournies par les utilisateurs qui demandent la transmission
+            d'informations ou s'inscrivent pour recevoir des bulletins
+            d'informations sont utilisées aux seules fins de fournir le service
+            demandé. Elles peuvent aussi être utilisées dans le cadre des
+            activités normales de la Société aux fins suivantes : a) gestion de
+            la relation utilisateur/client ; b) mener à bien son activité
             économique ; c) autres fins, liées aux activités de la Société ;
             notamment amélioration des produits et services proposés, même s'ils
             ne sont pas étroitement liés aux services demandés par le Soumetteur

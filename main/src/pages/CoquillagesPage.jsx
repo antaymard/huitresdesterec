@@ -18,7 +18,7 @@ function CoquillagesPage() {
         text: (
           <p>
             A Térénez, en baie de Morlaix, notre entreprise familiale produit
-            sur tables dans 10 hectares de parcs et 4000 poches par hectare, des
+            sur tables sur 10 hectares de parcs et 4000 poches par hectare, des
             huîtres exceptionnelles au goût très spécifique de noisette, en
             respectant tradition et environnement. Les huîtres de Sterec vous
             raviront par leur fraîcheur, leur richesse en vitamines et en
@@ -104,7 +104,7 @@ function CoquillagesPage() {
               pour sa chair tendre et succulente. Les recettes de bigorneaux ne
               manquent pas et sont toutes aussi délicieuses ! En outre c'est un
               aliment très nourrisant et peu calorique. Vous pouvez les servir
-              tières ou froids selon votre convenance.
+              tièdes ou froids selon votre convenance.
             </p>
           </div>
         ),
@@ -117,7 +117,7 @@ function CoquillagesPage() {
             <p>
               Appelées aussi “Rigadeaux” en Bretagne, nos coques sont pêchées au
               râteau par nos pêcheurs à pied sur Locquirec. Elles sont de belle
-              taille et très blanches. Pour plus de qualité, les cocques sont
+              taille et très blanches. Pour plus de qualité, les coques sont
               passées en bassin de purification.
             </p>
             <h4 className={subtitleStyle}>Nos conseils</h4>
@@ -125,10 +125,10 @@ function CoquillagesPage() {
               Pour enlever le sable que peuvent contenir les coques, il faut les
               mettre à dégorger un court moment, environ un quart d'heure, dans
               de l'eau de mer ou du robinet à laquelle on ajoute du gros sel en
-              quantité. Les coques vont alors s'entreouvrir et rejeter le sable.
+              quantité. Les coques vont alors s'entrouvrir et rejeter le sable.
               N'oubliez par de les brasser, cela aura aussi pour but de faire
               ouvrir les coques vides ou pleines de vase. Renouvelez l'eau pour
-              éliminer tout le sable avec de les acccomoder.
+              éliminer tout le sable avant de les acccomoder.
             </p>
           </div>
         ),

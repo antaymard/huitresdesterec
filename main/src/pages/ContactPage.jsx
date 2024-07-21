@@ -23,7 +23,11 @@ function ContactPage() {
             <h2 style={style.pageTitle} className="my-8 font-round text-main">
               Lieu et horaires
             </h2>
-            <p>Impasse de Feunteun Bol à Térénez, 29630, Plougasnou</p>
+            <p>
+              Impasse de Feunteun Bol <br /> Térénez
+              <br />
+              29630, Plougasnou
+            </p>
             <h3 style={style.sectionTitle} className="mb-3 mt-5 font-cursive">
               Horaires Vente Directe
             </h3>
