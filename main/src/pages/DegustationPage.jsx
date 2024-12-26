@@ -3,6 +3,7 @@ import Container from "../blocs/Container";
 import Header from "../blocs/Header";
 import SubHeader from "../blocs/SubHeader";
 import { ThemeContext } from "../contexts/ThemeContext";
+import dayjs from "dayjs";
 
 import Degustation from "../images/degustation.jpg";
 import Footer from "../blocs/Footer";
@@ -23,17 +24,25 @@ function DegustationPage() {
             className="font-round text-darkMain px-5 md:px-0"
           >
             Dégustation sur place
+            <br />
+            {dayjs().month() >= 6 && dayjs().month() <= 8 ? null : (
+              <span className="text-xl rounded-md border-2 px-2 inline border-pink-500 text-pink-500 whitespace-nowrap">
+                Rouvre en juillet prochain !
+              </span>
+            )}
           </h2>
           <img
             alt="Terrasse face à la mer"
             src="https://gwig-compressed-bucket.s3.amazonaws.com/yCQdfNUnGx9AU7l5Yb3B-bigger"
             className="sm:hidden sm:rounded aspect-video object-cover mt-8 "
           />
+
           <div className="px-5 md:px-0 mt-8">
             <p>
-              De 11h à 21h, dégustez nos huîtres et coquillages fraîchement
-              sortis de l'eau, face à la mer, avec vue sur le port de Térénez et
-              aligné avec le coucher du soleil tout l'été.
+              De juillet à septembre, de 11h à 21h, dégustez nos huîtres et
+              coquillages fraîchement sortis de l'eau, face à la mer, avec vue
+              sur le port de Térénez et aligné avec le coucher du soleil tout
+              l'été.
             </p>
           </div>
           <img
@@ -41,7 +50,6 @@ function DegustationPage() {
             src="https://gwig-compressed-bucket.s3.amazonaws.com/yCQdfNUnGx9AU7l5Yb3B-bigger"
             className="hidden sm:block sm:rounded aspect-video object-cover mt-8 "
           />
-
           <div className="flex flex-col px-5 sm:px-0 sm:grid grid-cols-2 gap-5 my-8">
             <img src={Degustation} alt="" className={imageClassName} />
             <img

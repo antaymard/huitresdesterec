@@ -1,4 +1,4 @@
-import CartButton from "./CartButton";
+import Medal from "../images/medal.png";
 
 function Header({
   title = "Les Huîtres de Sterec",
@@ -14,11 +14,12 @@ function Header({
           {title}
         </h1>
         <h4 className="font-hand">{subTitle}</h4>
-        {/* <div className="md:absolute right-0 ">
-          <CartButton />
-        </div> */}
-        <div className="rounded-full bg-emerald-500 shadow-lg shadow-emerald-500/20 text-white hidden md:absolute left-0 h-32 w-32 flex flex-col items-center justify-center text-center -rotate-12">
-          100% Baie de Morlaix !
+        <div className="rounded-full leading-tight text-main mt-8 md:mt-0 md:absolute left-0 h-32 w-32 flex flex-col items-center justify-center text-center md:-rotate-12">
+          <img
+            src={Medal}
+            alt="Illustration de la médaille du Mérite Agricole"
+          />
+          <p>Médaille d'Or 2024</p>
         </div>
       </a>
     </div>

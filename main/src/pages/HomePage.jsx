@@ -6,6 +6,7 @@ import Footer from "../blocs/Footer";
 import { Link } from "react-router-dom";
 import { OysterIcon } from "../icons/Oyster";
 import { PhoneIcon } from "@heroicons/react/24/solid";
+import dayjs from "dayjs";
 
 function HomePage() {
   return (
@@ -153,7 +154,12 @@ function HomePage() {
             className="hidden md:block md:rounded"
           />
           <div>
-            <h3 className="text-3xl mb-8 font-round text-darkMain px-5 md:px-0">
+            {dayjs().month() >= 6 && dayjs().month() <= 8 ? null : (
+              <p className="rounded-md border-2 ml-5 md:ml-0 p-1 px-4 inline border-pink-500 text-pink-500">
+                Rouvre en juillet prochain !
+              </p>
+            )}
+            <h3 className="text-3xl mb-8 font-round text-darkMain mt-5 px-5 md:px-0">
               Dégustation sur place l'été
             </h3>
             <img
