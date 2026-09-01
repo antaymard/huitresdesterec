@@ -53,7 +53,7 @@ function CommandePage() {
 
           {/* PAYPAL */}
           <div className="flex flex-col gap-3 w-full md:w-auto py-5 md:p-5 md:rounded bg-slate-100 shadow-lg">
-            <h3 className="font-bold font-round text-xl text-center mb-5 text-main">
+            <h3 className="font-bold font-round text-xl text-center  mb-5 text-main">
               Faîtes votre choix !
             </h3>
             <p className="mb-5">
