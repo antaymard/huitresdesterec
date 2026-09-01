@@ -13,7 +13,8 @@
     "start": "vite",
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "npm run build && wrangler deploy"
   },
   "browserslist": {
     "production": [
@@ -28,6 +29,7 @@
     ]
   },
   "devDependencies": {
+    "wrangler": "^4.127.1",
     "@vitejs/plugin-react": "^5.2.0",
     "autoprefixer": "^10.4.8",
     "postcss": "^8.4.16",
